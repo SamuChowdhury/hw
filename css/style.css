@@ -1,0 +1,9 @@
+h1{
+    color:rgb(208, 126, 25);
+}
+.div{
+    border:2px solid brown;
+    width: 300px;
+    text-align: center;
+    background-color: aqua;
+}
